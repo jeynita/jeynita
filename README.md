@@ -1,29 +1,27 @@
 # Hi, I'm Dieynaba 👋
 
 Software Engineering student at ESP (UCAD), Dakar.
-I learn by building real projects and understanding how systems work behind the scenes.
+I'm currently exploring different areas of software development
+and learning by building real projects.
 
 ## About me
 
 - 🎓 DUT Génie Logiciel, École Supérieure Polytechnique (Dakar)
-- 💻 Backend development: APIs, business logic, data modeling
-- 🏦 Interested in mobile money and payment systems
-- 🚀 Learning by building real projects
+- 🔭 Exploring: web, APIs, cloud and more
+- 🚀 Learning by building
 
-## Tech Stack
+## Tech I've worked with
 
 - **Languages:** Java • JavaScript / TypeScript • PHP • Python
-- **Backend:** Spring Boot • Node.js • Maven • JDBC
-- **Frontend:** React • Vite • HTML/CSS
+- **Frameworks:** Spring Boot • Node.js • React
 - **Data:** MySQL
-- **Security:** OAuth2 • Keycloak
-- **DevOps / Cloud:** Docker • Google Cloud (Cloud Run, Artifact Registry, Cloud Build)
+- **Tools:** Git • GitHub • Maven • Docker • Google Cloud
 - **Modeling:** UML • Merise
 
 ## Featured Projects
 
 - **Simulation Mobile Money**: Java application simulating core mobile money operations
-- **LigueyConnect**: professional networking platform for recruiters, job seekers and freelancers
+- **LigueyConnect**: professional networking platform
 - **Sensante**: Python-based pre-diagnostic assistant
 
 ## Connect with me
