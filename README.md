@@ -12,13 +12,13 @@ I learn by building real projects and understanding how systems work behind the 
 
 ## Tech Stack
 
--**Languages:** Java • JavaScript / TypeScript • PHP • Python
--**Backend:** Spring Boot • Node.js • Maven • JDBC
--**Frontend:** React • Vite • HTML/CSS
--**Data:** MySQL
--**Security:** OAuth2 • Keycloak
--**DevOps / Cloud:** Docker • Google Cloud (Cloud Run, Artifact Registry, Cloud Build)
--**Modeling:** UML • Merise
+- **Languages:** Java • JavaScript / TypeScript • PHP • Python
+- **Backend:** Spring Boot • Node.js • Maven • JDBC
+- **Frontend:** React • Vite • HTML/CSS
+- **Data:** MySQL
+- **Security:** OAuth2 • Keycloak
+- **DevOps / Cloud:** Docker • Google Cloud (Cloud Run, Artifact Registry, Cloud Build)
+- **Modeling:** UML • Merise
 
 ## Featured Projects
 
