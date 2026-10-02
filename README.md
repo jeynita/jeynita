@@ -1,6 +1,6 @@
 # Hi, I'm Dieynaba 👋
 
-Software Engineering student at ESP (UCAD), Dakar, focused on backend development.
+Software Engineering student at ESP (UCAD), Dakar.
 I learn by building real projects and understanding how systems work behind the scenes.
 
 ## About me
