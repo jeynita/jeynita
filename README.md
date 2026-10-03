@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dieynaba 👋</h1>
+<h1 align="center">Hi, I'm Dieynaba</h1>
 
 <p align="center">
   Software Engineering student at ESP (UCAD), Dakar<br>
@@ -13,7 +13,7 @@
 
 ---
 
-## -Tech I've worked with
+## Tech I've worked with
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -30,17 +30,17 @@
 
 ---
 
-## -Featured projects
+## Featured projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Simulation Mobile Money**](https://github.com/jeynita/Simulation_Mobile_Money) | Console app simulating mobile money operations | Java · MySQL · JDBC |
+| [**Simulation Mobile Money**](https://github.com/jeynita/Simulation_Mobile_Money) | Console app simulating mobile money operations | Java, MySQL, JDBC |
 | [**LigueyConnect**](https://github.com/jeynita/ligueyConnect) | Platform connecting recruiters, job seekers and freelancers | JavaScript |
 | [**Sensante**](https://github.com/jeynita/sensante) | Medical pre-diagnostic assistant | Python |
 
 ---
 
-##  -Currently
+## Currently
 
 - Exploring different areas of software development
 - Learning by building and documenting my projects
