@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Dieynaba</h1>
+# Hi, I'm Dieynaba 👋
 
 <p align="center">
-  Software Engineering student at ESP (UCAD), Dakar<br>
-  Exploring software development by building real projects
+  <strong>Software Engineering student | DIT1 at ESP (UCAD), Dakar</strong><br>
+  Building software, solving problems and learning through real-world projects.
 </p>
 
 <p align="center">
@@ -15,10 +15,26 @@
 </p>
 
 <p align="center">
-  Looking for a software development internship in Dakar, starting May 2027.
+  <strong>Open to software development apprenticeship opportunities.</strong>
 </p>
 
 ---
+
+## About me
+
+I'm a Software Engineering student with a DUT in Software Engineering from École Supérieure Polytechnique (ESP), UCAD.
+
+I enjoy designing and building applications, from backend architecture to user-facing interfaces and deployment.
+
+During my internship at **InTouch Group**, within the Core Processing team, I designed and developed **GenConnect**, a web platform that automates payment connector generation, reducing the process from several days to less than 30 seconds.
+
+This experience allowed me to work with:
+- Software architecture and Maven Archetypes
+- Full-stack development with React and Node.js/TypeScript
+- Authentication and security with Keycloak, OAuth2/OIDC
+- Containerization and deployment with Docker and Google Cloud Run
+
+Beyond professional experience, I enjoy exploring new technologies and turning ideas into functional projects.
 
 ## Tech I've worked with
 
@@ -34,6 +50,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
@@ -42,15 +59,24 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Sénégal Challenge**](https://github.com/jeynita/senegal-challenge) | Mime and guessing party game for friends, played on a single phone. [Play it](https://senegal-challenge.netlify.app) | HTML, CSS, JavaScript |
-| [**SénSanté**](https://github.com/jeynita/sensante) | Medical pre-diagnostic assistant based on Machine Learning, exposed through a REST API | Python, FastAPI |
-| [**Site Actu Dynamique**](https://github.com/jeynita/Site_Actu_Dynamique) | News website with role-based content management (visitor, editor, administrator) | PHP, MySQL, JavaScript |
+| [**Sénégal Challenge**](https://github.com/jeynita/senegal-challenge) | A multiplayer mime and guessing party game designed for friends, played on a single phone. [Play it](https://senegal-challenge.netlify.app) | HTML, CSS, JavaScript |
+| [**SénSanté**](https://github.com/jeynita/sensante) | A medical pre-diagnostic assistant powered by Machine Learning and exposed through a REST API. | Python, FastAPI |
+| [**Site Actu Dynamique**](https://github.com/jeynita/Site_Actu_Dynamique) | A dynamic news platform with role-based content management for visitors, editors and administrators. | PHP, MySQL, JavaScript |
 
-More projects and my background on my [portfolio](https://jeynita.github.io/mon-portfolio/).
+More projects and details about my work are available on my [portfolio](https://jeynita.github.io/mon-portfolio/).
 
 ---
 
 ## Currently
 
-- Looking for an internship in software development in Dakar
-- Learning by building and documenting my projects
+- Pursuing my studies in Software Engineering (DIT1).
+- Exploring backend development, Java and Spring Boot.
+- Improving my software architecture and engineering practices.
+- Building projects and documenting my learning journey.
+- Open to software development apprenticeship opportunities.
+
+---
+
+<p align="center">
+  <i>Curiosity drives me. Building helps me grow.</i>
+</p>
