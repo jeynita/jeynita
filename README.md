@@ -54,6 +54,14 @@ Beyond professional experience, I enjoy exploring new technologies and turning i
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
+## What I'm exploring
+
+- **Backend Engineering:** Deepening my knowledge of Java, Spring Boot, REST APIs and software architecture.
+- **Software Design:** Exploring clean code, design patterns and maintainable application structures.
+- **Cybersecurity:** Learning about application security, authentication and secure API development.
+- **DevOps:** Exploring CI/CD pipelines, Docker and automated deployment workflows.
+- **Artificial Intelligence:** Exploring Machine Learning and its practical applications in software development.
+---
 
 ## Featured projects
 
